@@ -1,0 +1,6 @@
+ARTIN KHODRO 1.0.1 TEST HANDOFF
+Source package prepared. APK NOT BUILT.
+Physical device installation test NOT PERFORMED.
+Static checks: ZIP integrity, catalog JSON parse, AndroidManifest XML parse passed.
+Build blocked in current environment: Android SDK missing, Gradle executable missing, gradle-wrapper.jar missing.
+See TEST_INSTALL_FA.md for Android Studio build and ADB installation instructions.
