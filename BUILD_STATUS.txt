@@ -1,6 +1,13 @@
-ARTIN KHODRO 1.0.1 TEST HANDOFF
-Source package prepared. APK NOT BUILT.
-Physical device installation test NOT PERFORMED.
-Static checks: ZIP integrity, catalog JSON parse, AndroidManifest XML parse passed.
-Build blocked in current environment: Android SDK missing, Gradle executable missing, gradle-wrapper.jar missing.
-See TEST_INSTALL_FA.md for Android Studio build and ADB installation instructions.
+ARTIN KHODRO 1.0.4 — BUILD STATUS
+
+Source archive: prepared from the previous 1.0.3 root source.
+Version: 1.0.4 (versionCode 5).
+ZIP integrity: PASS (verified after packaging).
+AndroidManifest.xml parse: PASS.
+Vehicle catalog JSON parse: PASS.
+APK build: NOT RUN in this environment (Android SDK and Gradle are unavailable).
+Physical-device installation test: NOT PERFORMED.
+
+The GitHub Actions workflow is configured to build a debug APK using JDK 17, Gradle 8.9, Android platform 35 and build-tools 35.0.0. It uploads app/build/outputs/apk/debug/app-debug.apk as ARTIN-KHODRO-debug-apk.
+
+This is an incomplete test candidate, not a complete verified automotive database and not a production-signed release. Generic OBD-II DTCs require vehicle-specific validation. Wiring diagrams, connector pinouts, sensor locations, fuse/relay assignments, reference values and manufacturer-specific procedures are not yet comprehensively populated.
