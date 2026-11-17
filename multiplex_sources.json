@@ -1,0 +1,117 @@
+{
+  "version": "1.1.0",
+  "source": "ARTIN_KHODRO_CARGEEK_CATALOG.xlsx",
+  "notice": "این فهرست فقط راهنمای یافتن منبع است و جایگزین سند فنی همان VIN/سال/تیپ/ECU نیست.",
+  "items": [
+    {
+      "maker": "ایران‌خودرو",
+      "vehicle": "پژو 206",
+      "trim": "فاز 1 / ECO MUX",
+      "category": "برق و مالتی‌پلکس",
+      "title": "راهنمای نقشه‌های الکتریکی پژو 206 فاز1 (ECO MUX)",
+      "source_url": "https://cargeek.live/d/sT5KhPNr",
+      "file_info": "PDF، 6.31 MB",
+      "verification_status": "عنوان و صفحه منبع بررسی شد؛ جزئیات پایه‌ها باید با PDF تطبیق داده شود",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "ایران‌خودرو",
+      "vehicle": "پژو 206",
+      "trim": "فاز صفر",
+      "category": "برق و سیم‌کشی",
+      "title": "راهنمای نقشه‌های الکتریکی پژو 206 فاز0",
+      "source_url": "https://cargeek.live/t/ایساکو",
+      "file_info": "PDF، 4.82 MB",
+      "verification_status": "در فهرست کارگیک شناسایی شد؛ لینک مستقیم سند نیازمند انتخاب از صفحه منبع است",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "ایران‌خودرو",
+      "vehicle": "سمند / سورن",
+      "trim": "نسخه مالتی‌پلکس",
+      "category": "مالتی‌پلکس",
+      "title": "مالتی‌پلکس سمند و سورن",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 1.25 MB",
+      "verification_status": "در فهرست مطالب کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "ایران‌خودرو",
+      "vehicle": "دنا",
+      "trim": "نسخه‌های مختلف",
+      "category": "نقشه برق",
+      "title": "راهنمای تعمیرات نقشه‌های الکتریکی خودروی دنا",
+      "source_url": "https://cargeek.live/t/مدل%20سازی",
+      "file_info": "PDF، 2.5 MB",
+      "verification_status": "در فهرست مطالب کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "سایپا",
+      "vehicle": "تیبا 2",
+      "trim": "نسخه‌های مختلف",
+      "category": "نقشه برق",
+      "title": "راهنمای تعمیرات مدارهای الکتریکی تیبا 2",
+      "source_url": "https://cargeek.live/t/مدل%20سازی",
+      "file_info": "PDF، 5.45 MB",
+      "verification_status": "در فهرست مطالب کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "مدیران خودرو",
+      "vehicle": "MVM 110",
+      "trim": "SQR 372 / 472",
+      "category": "برق و الکترونیک",
+      "title": "نقشه‌ها و راهنمای سیستم‌های الکتریکی MVM 110",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 0.94 MB",
+      "verification_status": "در فهرست MVM کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "مدیران خودرو",
+      "vehicle": "MVM 530",
+      "trim": "نسخه‌های مختلف",
+      "category": "برق و الکترونیک",
+      "title": "راهنمای برق MVM 530",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 4.76 MB",
+      "verification_status": "در فهرست MVM کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "مدیران خودرو",
+      "vehicle": "MVM X22",
+      "trim": "نسخه‌های مختلف",
+      "category": "سیستم‌های خودرو",
+      "title": "جزوه آموزشی سیستم‌های MVM X22",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 4.55 MB",
+      "verification_status": "در فهرست MVM کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "مدیران خودرو",
+      "vehicle": "MVM X33",
+      "trim": "نسخه‌های مختلف",
+      "category": "برق و الکترونیک",
+      "title": "راهنمای سیستم‌های الکتریکی MVM X33",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 8.27 MB",
+      "verification_status": "در فهرست MVM کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    },
+    {
+      "maker": "مدیران خودرو",
+      "vehicle": "MVM 550",
+      "trim": "نسخه‌های مختلف",
+      "category": "برق و الکترونیک",
+      "title": "راهنمای برق و الکترونیک MVM 550",
+      "source_url": "https://cargeek.live/t/mvm",
+      "file_info": "PDF، 6.61 MB",
+      "verification_status": "در فهرست MVM کارگیک شناسایی شد",
+      "data_status": "reference_only_not_pinout_verified"
+    }
+  ]
+}
